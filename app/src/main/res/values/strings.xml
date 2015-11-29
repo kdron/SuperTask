@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperTask</string>
+    <string name="facebook_app_id">156038404532801</string>
+   <!-- <string name="facebook_app_id">1719523844944253</string>-->
+    <string name="title_activity_add_cloth">AddCloth</string>
+
+</resources>
